@@ -17,3 +17,26 @@ body {
     padding: 0 20px;
     max-width: 1200px;
 }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+    margin-left: auto;
+    gap: 16px;
+    list-style-type: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #afafaf;
+
+}
+nav ul li a:hover {
+    color: #a0a0a0;
+}
