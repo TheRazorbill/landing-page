@@ -21,6 +21,7 @@ body {
 .header {
     display: flex;
     justify-content: space-between;
+    margin-top: 20px;
 }
 
 nav ul {
@@ -39,4 +40,50 @@ nav ul li a {
 }
 nav ul li a:hover {
     color: #a0a0a0;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 0;
+    gap: 16px;
+}
+
+.hero-text {
+    padding: 10px;
+}
+
+.hero-text h1 {
+    font-size: 48px;
+    color: #f9faf8;
+    margin-bottom: 10px;
+    font-weight: 900;
+}
+.hero-text p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.hero-button {
+    background-color: #3882f6;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none;
+    color: #f9faf8;
+    margin-top: 10px;
+    font-weight: bold;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+}
+
+.hero-button:hover {
+    background-color: #2771e5;
+    cursor: pointer;
+}
+
+.hero-image img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    border-radius: 8px;
+    border: 2px solid #3882f6;
 }
