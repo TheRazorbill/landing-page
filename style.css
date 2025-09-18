@@ -151,3 +151,41 @@ nav ul li a:hover {
     font-weight: bold;
     color: #1F2937;
 }
+
+.call-to-action {
+    background-color: #3882f6;
+    padding: 50px 20px;
+    margin: auto;
+    margin-bottom: 100px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+
+}
+
+.cta-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cta-text {
+    margin-left: 50px;   
+}
+
+.cta-button button {
+    background-color: #3882f6;
+    border: #fff;
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: #f9faf8;
+    margin-top: 10px;
+    font-weight: bold;
+    margin: auto;
+    margin-right: 50px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
+}
+
+.cta-button button:hover {
+    background-color: #2771e5;
+    cursor: pointer;
+}
