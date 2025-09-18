@@ -189,3 +189,9 @@ nav ul li a:hover {
     background-color: #2771e5;
     cursor: pointer;
 }
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: #E5E7EB;
+}
