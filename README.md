@@ -16,7 +16,7 @@ This project is a simple **landing page** developed as part of **The Odin Projec
 
 1.  Clone this repository to your local environment:
     ```bash
-    git clone [https://github.com/TheRazorbill/landing-page.git](https://github.com/TheRazorbill/landing-page.git)
+    git clone https://github.com/TheRazorbill/landing-page.git
     ```
 2.  Open the `index.html` file in your browser to view the page.
 
@@ -44,3 +44,4 @@ Here is a preview of what the finished page looks like:
 This project is licensed under the **MIT License**.
 
 ---
+
