@@ -36,7 +36,6 @@ nav ul {
 nav ul li a {
     text-decoration: none;
     color: #afafaf;
-
 }
 nav ul li a:hover {
     color: #a0a0a0;
@@ -74,7 +73,6 @@ nav ul li a:hover {
     font-weight: bold;
     box-shadow: 2px 2px 5px rgba(0,0,0,0.3);
 }
-
 .hero-button:hover {
     background-color: #2771e5;
     cursor: pointer;
@@ -86,4 +84,49 @@ nav ul li a:hover {
     vertical-align: middle;
     border-radius: 8px;
     border: 2px solid #3882f6;
+}
+
+.information {
+    background-color: #fff;
+    margin: auto;
+    margin-bottom: 100px;
+    padding: 50px 20px;
+}
+
+.information h2 {
+    color: #1f2937;
+    font-weight: 900;
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.about-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    gap: 16px;
+}
+
+.information-box {
+    flex: 1 1 200px;
+    text-align: center;
+    margin-top: 16px;
+    color: #1F2937;
+}
+
+.information-box img {
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    border-radius: 8px;
+    border: 2px solid #3882f6;
+    object-fit: cover;
+}
+
+.information-box figcaption {
+    margin-top: 10px;
+    text-align: center;
+    color: #4b5563;
 }
