@@ -4,7 +4,7 @@ This project is a simple **landing page** developed as part of **The Odin Projec
 
 ---
 
-## 💻 Technologies
+##  Technologies
 
 * **HTML5:** For the semantic structure of the content.
 * **CSS3:** For styling and creating a responsive page layout.
@@ -12,7 +12,7 @@ This project is a simple **landing page** developed as part of **The Odin Projec
 
 ---
 
-## ⚙️ How to Run the Project
+##  How to Run the Project
 
 1.  Clone this repository to your local environment:
     ```bash
@@ -22,7 +22,7 @@ This project is a simple **landing page** developed as part of **The Odin Projec
 
 ---
 
-## 📸 Preview
+##  Preview
 
 Here is a preview of what the finished page looks like:
 
@@ -30,7 +30,7 @@ Here is a preview of what the finished page looks like:
 
 ---
 
-## 🚀 Lessons Learned
+##  Lessons Learned
 
 * **Project Structure:** How to organize HTML and CSS files for a basic web project.
 * **Flexbox:** The use of `display: flex` to align and distribute elements on the page.
@@ -39,9 +39,10 @@ Here is a preview of what the finished page looks like:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License**.
 
 ---
+
 
